@@ -1,0 +1,43 @@
+.format-form {
+    display: flex;
+}
+
+.format-form-group {
+    margin-right: 30px;
+    max-width: 60%;
+}
+
+.format-form-size-input {
+    margin-top: 5px;
+    display: block;
+}
+
+.color-picker {
+    width: 32px;
+    height: 32px;
+    border: 2px solid #d9d9d9;
+    border-radius: 3px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.ant-popover-inner-content {
+    padding: 0;
+}
+
+.ant-drawer-content-wrapper {
+    border-radius: 16px 0px 0px 0px;
+    margin-top: 76px;
+}
+
+.ant-drawer-content {
+    border-radius: 16px 0px 0px 0px;
+}
+
+.ant-tabs-content-holder {
+    padding: 0 24px;
+}
+
+.ant-form-item-label {
+    font-weight: 500;
+}

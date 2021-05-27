@@ -1,0 +1,13 @@
+.card-component {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.action-button {
+    margin: 0 5px;
+}
+
+.action-button-icon {
+    font-size: 18px;
+}
